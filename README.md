@@ -56,8 +56,3 @@ These Services do not address anyone under the age of 13. we do not knowingly co
 **Changes to This Privacy Policy**
 
 we may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
-
-**Contact Us**
-
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact.
-    By email: storybelldev@gmail.com
